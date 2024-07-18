@@ -13,7 +13,7 @@ jobs:
     - name: Checkout código
       uses: actions/checkout@v2
       with:
-        repository: juliobautistaSFTK/TallerGITHUB
+        repository: oalexis22/TallerGITHUB
         ref: main
 
     - name: Imprimir mensaje
